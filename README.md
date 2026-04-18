@@ -1,4 +1,4 @@
-# lvgm-ethereum-governance
+# LVGM-Ethereum-Governance
 
 > **Layered Verifiable Governance Model (LVGM) — A Research Prototype for Ethereum**
 
