@@ -226,6 +226,38 @@ FOUNDRY_PROFILE=ci forge test
 
 ---
 
+## Development Commands
+
+Quick start:
+
+```bash
+make install
+make build
+make test
+```
+
+Focused runs:
+
+```bash
+make test-unit
+make test-integration
+make test-invariant
+make test-fuzz
+```
+
+Deployment and local dev:
+
+```bash
+make anvil
+make deploy-local
+```
+
+For CI-equivalent validation locally, run:
+
+```bash
+make check
+```
+
 ## Development Status Disclaimer
 
 > **This repository is a research prototype in active development.**
