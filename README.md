@@ -277,4 +277,4 @@ make check
 
 ---
 
-*LVGM — Layered Verifiable Governance Model · Ethereum Governance Research · 2024–2025*
+*LVGM — Layered Verifiable Governance Model · Ethereum Governance Research · 2026–2027*
